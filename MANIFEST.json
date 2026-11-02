@@ -1,0 +1,1357 @@
+﻿[
+    {
+        "path":  "README.md",
+        "bytes":  8760,
+        "sha256":  "eb136c45e7c7e848cb585c0106a0d399c8033deb1dde6977efd79980f895562f"
+    },
+    {
+        "path":  "backstage-files/packages/app/public/governance-report/index.html",
+        "bytes":  101339,
+        "sha256":  "544910d90fd6e4409bcbc1a29e255cabad968b748f6b67c0935667a05076bf4f"
+    },
+    {
+        "path":  "backstage-files/packages/app/public/governance-report/results.json",
+        "bytes":  92698,
+        "sha256":  "d5629e2a39287ccf932bfec0c216c5bd6955e077519c1ffc22a792ef08f58c7f"
+    },
+    {
+        "path":  "backstage-files/packages/app/src/modules/governance/index.tsx",
+        "bytes":  833,
+        "sha256":  "54d97d18b707f3e8216d615ec22199dfe7d8b380a6367448a59c0ee262fd64c6"
+    },
+    {
+        "path":  "governance-poc/.gitignore",
+        "bytes":  23,
+        "sha256":  "5a4ce8ccbd0d77f10a20e0742629670d19b51bfd29c42f8afc7b6f023726c7cd"
+    },
+    {
+        "path":  "governance-poc/package-lock.json",
+        "bytes":  92661,
+        "sha256":  "951a06c6ac218976733ba28f540420d76df447c3fe44eea786cf0305831f86e7"
+    },
+    {
+        "path":  "governance-poc/package.json",
+        "bytes":  602,
+        "sha256":  "797c207f50f9a137610f5cfff04c18faa1471690a76588131cb5f92ff1f9c2f3"
+    },
+    {
+        "path":  "governance-poc/README.md",
+        "bytes":  9438,
+        "sha256":  "bfe3edb1b85dfb586176679ca8f3d7cc882eb6a8b5c763e087e89d54992ba016"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/catalog/legacy-api-01.yaml",
+        "bytes":  307,
+        "sha256":  "1cbe8d5f829d71fcdea19496be2be515ebbf173f7b07c397fde641d93d349535"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/catalog/legacy-api-02.yaml",
+        "bytes":  307,
+        "sha256":  "bd21a592166100f766c3ece8dfcaaf2af82be136bb88deb4253014700839246c"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/catalog/legacy-api-03.yaml",
+        "bytes":  307,
+        "sha256":  "d0b6453c045b4f98e08c26f89163cd582e4296719a423af7f1cd2d5e21958983"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/catalog/legacy-api-04.yaml",
+        "bytes":  307,
+        "sha256":  "34e69f3396516144d0926664fe02396df4d937fa041f80ba8467d3449eae1a46"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/catalog/legacy-api-05.yaml",
+        "bytes":  307,
+        "sha256":  "7f1e3f6611fe77912ee8f4f0cd102ab51686439096732691703df8a090f4c45f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/catalog/legacy-api-06.yaml",
+        "bytes":  307,
+        "sha256":  "1946eb4d5fd6754ab83f40d0b8a232ce2357ffc6da83315117c78ffd3c7559eb"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/catalog/legacy-api-07.yaml",
+        "bytes":  307,
+        "sha256":  "49749188457902ff6571df236f68100dc9768c7755ad1074252ac0ff4d47df1e"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/catalog/legacy-api-08.yaml",
+        "bytes":  307,
+        "sha256":  "c8cb9583ce322e70e6f77621aaaac39f0419358c6db3794a780337959f50d7bb"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/catalog/legacy-api-09.yaml",
+        "bytes":  307,
+        "sha256":  "7077f128bfe6cd20fa45aef13e48a08052950fca9e627d564bdaf8ddc0d069fc"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/catalog/legacy-api-10.yaml",
+        "bytes":  307,
+        "sha256":  "4ef84b76d071519f09b1e3709dca7f6cf3b21c236033d0e4552ea59f2a519c4f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/catalog/member-api.yaml",
+        "bytes":  301,
+        "sha256":  "69d681e12006203cc462142bedf281561e0ed408fe7f2a8887a40e9da606406a"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/openapi/legacy-api-01.yaml",
+        "bytes":  361,
+        "sha256":  "6420bd78f250dbbc5b305666bb89f86de415f7b81d809916f34b8b22fbcc27ab"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/openapi/legacy-api-02.yaml",
+        "bytes":  361,
+        "sha256":  "4498fd2655b4b4515a24de7c6eb361a59815eb3c4f055b3b36cce98983763c59"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/openapi/legacy-api-03.yaml",
+        "bytes":  361,
+        "sha256":  "6ef818740458d01fc6101569b772015567433de874d6c892415bb85b159f059f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/openapi/legacy-api-04.yaml",
+        "bytes":  361,
+        "sha256":  "fbe19fa097d4f5206ee1b9250ae8977af0a620d9fdba30ff83785326f99cf061"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/openapi/legacy-api-05.yaml",
+        "bytes":  361,
+        "sha256":  "abc5ebaf50a341cff7141a5551867329a7805f90abff814a342470536fa214f6"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/openapi/legacy-api-06.yaml",
+        "bytes":  361,
+        "sha256":  "298e9872a31c2a2b15146319a8c4c909a9e1d22455c5870b6e01facbb60416f5"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/openapi/legacy-api-07.yaml",
+        "bytes":  361,
+        "sha256":  "de48279324cfa53933d537061c66c7d7c032fb7863f5678f9abb4bed7e39bd59"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/openapi/legacy-api-08.yaml",
+        "bytes":  361,
+        "sha256":  "11dbc6a0733c46d51cec7848a518560066dbf22988a6762f3c098c251dee66b0"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/openapi/legacy-api-09.yaml",
+        "bytes":  361,
+        "sha256":  "7fe17029ef5c20dbb8ca8f937284d0cd6adcf5b70cb24e217c8b57326a12b1ea"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/openapi/legacy-api-10.yaml",
+        "bytes":  362,
+        "sha256":  "e10e6263f59b11bc73a4ae9b6414e0e36852676ff801a4ecff367f49afe77b58"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/openapi/member-api.yaml",
+        "bytes":  401,
+        "sha256":  "f2cf66e2ea1fdbfe6e2b085455c8b6c4cf60dcc093e1e3ca1df7af3e0682e532"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-api/schemas/advance.yaml",
+        "bytes":  55,
+        "sha256":  "bf3150005be5748366c3236a598c04e020e2e121362b99474b23a1dc49e75f84"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/asyncapi/advance-events.yaml",
+        "bytes":  676,
+        "sha256":  "8f13571cdca3f1cbdb1c9d36ec40a33f1b9dd101128201b68efe664f66555d98"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/catalog/advance-events.yaml",
+        "bytes":  311,
+        "sha256":  "1ee93cefadf544df54428a4d7e18de6bf4769ecf9582d978e4e3bcec08d0a770"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/catalog/legacy-api-01.yaml",
+        "bytes":  307,
+        "sha256":  "1cbe8d5f829d71fcdea19496be2be515ebbf173f7b07c397fde641d93d349535"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/catalog/legacy-api-02.yaml",
+        "bytes":  307,
+        "sha256":  "bd21a592166100f766c3ece8dfcaaf2af82be136bb88deb4253014700839246c"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/catalog/legacy-api-03.yaml",
+        "bytes":  307,
+        "sha256":  "d0b6453c045b4f98e08c26f89163cd582e4296719a423af7f1cd2d5e21958983"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/catalog/legacy-api-04.yaml",
+        "bytes":  307,
+        "sha256":  "34e69f3396516144d0926664fe02396df4d937fa041f80ba8467d3449eae1a46"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/catalog/legacy-api-05.yaml",
+        "bytes":  307,
+        "sha256":  "7f1e3f6611fe77912ee8f4f0cd102ab51686439096732691703df8a090f4c45f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/catalog/legacy-api-06.yaml",
+        "bytes":  307,
+        "sha256":  "1946eb4d5fd6754ab83f40d0b8a232ce2357ffc6da83315117c78ffd3c7559eb"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/catalog/legacy-api-07.yaml",
+        "bytes":  307,
+        "sha256":  "49749188457902ff6571df236f68100dc9768c7755ad1074252ac0ff4d47df1e"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/catalog/legacy-api-08.yaml",
+        "bytes":  307,
+        "sha256":  "c8cb9583ce322e70e6f77621aaaac39f0419358c6db3794a780337959f50d7bb"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/catalog/legacy-api-09.yaml",
+        "bytes":  307,
+        "sha256":  "7077f128bfe6cd20fa45aef13e48a08052950fca9e627d564bdaf8ddc0d069fc"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/catalog/legacy-api-10.yaml",
+        "bytes":  307,
+        "sha256":  "4ef84b76d071519f09b1e3709dca7f6cf3b21c236033d0e4552ea59f2a519c4f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/openapi/legacy-api-01.yaml",
+        "bytes":  361,
+        "sha256":  "6420bd78f250dbbc5b305666bb89f86de415f7b81d809916f34b8b22fbcc27ab"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/openapi/legacy-api-02.yaml",
+        "bytes":  361,
+        "sha256":  "4498fd2655b4b4515a24de7c6eb361a59815eb3c4f055b3b36cce98983763c59"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/openapi/legacy-api-03.yaml",
+        "bytes":  361,
+        "sha256":  "6ef818740458d01fc6101569b772015567433de874d6c892415bb85b159f059f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/openapi/legacy-api-04.yaml",
+        "bytes":  361,
+        "sha256":  "fbe19fa097d4f5206ee1b9250ae8977af0a620d9fdba30ff83785326f99cf061"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/openapi/legacy-api-05.yaml",
+        "bytes":  361,
+        "sha256":  "abc5ebaf50a341cff7141a5551867329a7805f90abff814a342470536fa214f6"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/openapi/legacy-api-06.yaml",
+        "bytes":  361,
+        "sha256":  "298e9872a31c2a2b15146319a8c4c909a9e1d22455c5870b6e01facbb60416f5"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/openapi/legacy-api-07.yaml",
+        "bytes":  361,
+        "sha256":  "de48279324cfa53933d537061c66c7d7c032fb7863f5678f9abb4bed7e39bd59"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/openapi/legacy-api-08.yaml",
+        "bytes":  361,
+        "sha256":  "11dbc6a0733c46d51cec7848a518560066dbf22988a6762f3c098c251dee66b0"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/openapi/legacy-api-09.yaml",
+        "bytes":  361,
+        "sha256":  "7fe17029ef5c20dbb8ca8f937284d0cd6adcf5b70cb24e217c8b57326a12b1ea"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/openapi/legacy-api-10.yaml",
+        "bytes":  362,
+        "sha256":  "e10e6263f59b11bc73a4ae9b6414e0e36852676ff801a4ecff367f49afe77b58"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/compliant-event/schemas/advance.yaml",
+        "bytes":  55,
+        "sha256":  "bf3150005be5748366c3236a598c04e020e2e121362b99474b23a1dc49e75f84"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/catalog/legacy-api-01.yaml",
+        "bytes":  307,
+        "sha256":  "1cbe8d5f829d71fcdea19496be2be515ebbf173f7b07c397fde641d93d349535"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/catalog/legacy-api-02.yaml",
+        "bytes":  307,
+        "sha256":  "bd21a592166100f766c3ece8dfcaaf2af82be136bb88deb4253014700839246c"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/catalog/legacy-api-03.yaml",
+        "bytes":  307,
+        "sha256":  "d0b6453c045b4f98e08c26f89163cd582e4296719a423af7f1cd2d5e21958983"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/catalog/legacy-api-04.yaml",
+        "bytes":  307,
+        "sha256":  "34e69f3396516144d0926664fe02396df4d937fa041f80ba8467d3449eae1a46"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/catalog/legacy-api-05.yaml",
+        "bytes":  307,
+        "sha256":  "7f1e3f6611fe77912ee8f4f0cd102ab51686439096732691703df8a090f4c45f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/catalog/legacy-api-06.yaml",
+        "bytes":  307,
+        "sha256":  "1946eb4d5fd6754ab83f40d0b8a232ce2357ffc6da83315117c78ffd3c7559eb"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/catalog/legacy-api-07.yaml",
+        "bytes":  307,
+        "sha256":  "49749188457902ff6571df236f68100dc9768c7755ad1074252ac0ff4d47df1e"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/catalog/legacy-api-08.yaml",
+        "bytes":  307,
+        "sha256":  "c8cb9583ce322e70e6f77621aaaac39f0419358c6db3794a780337959f50d7bb"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/catalog/legacy-api-09.yaml",
+        "bytes":  307,
+        "sha256":  "7077f128bfe6cd20fa45aef13e48a08052950fca9e627d564bdaf8ddc0d069fc"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/catalog/legacy-api-10.yaml",
+        "bytes":  307,
+        "sha256":  "4ef84b76d071519f09b1e3709dca7f6cf3b21c236033d0e4552ea59f2a519c4f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/catalog/member-api.yaml",
+        "bytes":  301,
+        "sha256":  "69d681e12006203cc462142bedf281561e0ed408fe7f2a8887a40e9da606406a"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/openapi/legacy-api-01.yaml",
+        "bytes":  361,
+        "sha256":  "6420bd78f250dbbc5b305666bb89f86de415f7b81d809916f34b8b22fbcc27ab"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/openapi/legacy-api-02.yaml",
+        "bytes":  361,
+        "sha256":  "4498fd2655b4b4515a24de7c6eb361a59815eb3c4f055b3b36cce98983763c59"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/openapi/legacy-api-03.yaml",
+        "bytes":  361,
+        "sha256":  "6ef818740458d01fc6101569b772015567433de874d6c892415bb85b159f059f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/openapi/legacy-api-04.yaml",
+        "bytes":  361,
+        "sha256":  "fbe19fa097d4f5206ee1b9250ae8977af0a620d9fdba30ff83785326f99cf061"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/openapi/legacy-api-05.yaml",
+        "bytes":  361,
+        "sha256":  "abc5ebaf50a341cff7141a5551867329a7805f90abff814a342470536fa214f6"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/openapi/legacy-api-06.yaml",
+        "bytes":  361,
+        "sha256":  "298e9872a31c2a2b15146319a8c4c909a9e1d22455c5870b6e01facbb60416f5"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/openapi/legacy-api-07.yaml",
+        "bytes":  361,
+        "sha256":  "de48279324cfa53933d537061c66c7d7c032fb7863f5678f9abb4bed7e39bd59"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/openapi/legacy-api-08.yaml",
+        "bytes":  361,
+        "sha256":  "11dbc6a0733c46d51cec7848a518560066dbf22988a6762f3c098c251dee66b0"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/openapi/legacy-api-09.yaml",
+        "bytes":  361,
+        "sha256":  "7fe17029ef5c20dbb8ca8f937284d0cd6adcf5b70cb24e217c8b57326a12b1ea"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/openapi/legacy-api-10.yaml",
+        "bytes":  362,
+        "sha256":  "e10e6263f59b11bc73a4ae9b6414e0e36852676ff801a4ecff367f49afe77b58"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/openapi/member-api.yaml",
+        "bytes":  350,
+        "sha256":  "f51c41da6ce09109ac17f3981d0e5bd907dca7e737500681ea994d8485adbb53"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/documentation-warning/schemas/advance.yaml",
+        "bytes":  55,
+        "sha256":  "bf3150005be5748366c3236a598c04e020e2e121362b99474b23a1dc49e75f84"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/asyncapi/advance-events.yaml",
+        "bytes":  679,
+        "sha256":  "caab1aa526265ebc618c6a06515dac1dbd7fc94e24c1683670f0ea35839290bf"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/catalog/advance-events.yaml",
+        "bytes":  311,
+        "sha256":  "1ee93cefadf544df54428a4d7e18de6bf4769ecf9582d978e4e3bcec08d0a770"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/catalog/legacy-api-01.yaml",
+        "bytes":  307,
+        "sha256":  "1cbe8d5f829d71fcdea19496be2be515ebbf173f7b07c397fde641d93d349535"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/catalog/legacy-api-02.yaml",
+        "bytes":  307,
+        "sha256":  "bd21a592166100f766c3ece8dfcaaf2af82be136bb88deb4253014700839246c"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/catalog/legacy-api-03.yaml",
+        "bytes":  307,
+        "sha256":  "d0b6453c045b4f98e08c26f89163cd582e4296719a423af7f1cd2d5e21958983"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/catalog/legacy-api-04.yaml",
+        "bytes":  307,
+        "sha256":  "34e69f3396516144d0926664fe02396df4d937fa041f80ba8467d3449eae1a46"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/catalog/legacy-api-05.yaml",
+        "bytes":  307,
+        "sha256":  "7f1e3f6611fe77912ee8f4f0cd102ab51686439096732691703df8a090f4c45f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/catalog/legacy-api-06.yaml",
+        "bytes":  307,
+        "sha256":  "1946eb4d5fd6754ab83f40d0b8a232ce2357ffc6da83315117c78ffd3c7559eb"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/catalog/legacy-api-07.yaml",
+        "bytes":  307,
+        "sha256":  "49749188457902ff6571df236f68100dc9768c7755ad1074252ac0ff4d47df1e"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/catalog/legacy-api-08.yaml",
+        "bytes":  307,
+        "sha256":  "c8cb9583ce322e70e6f77621aaaac39f0419358c6db3794a780337959f50d7bb"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/catalog/legacy-api-09.yaml",
+        "bytes":  307,
+        "sha256":  "7077f128bfe6cd20fa45aef13e48a08052950fca9e627d564bdaf8ddc0d069fc"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/catalog/legacy-api-10.yaml",
+        "bytes":  307,
+        "sha256":  "4ef84b76d071519f09b1e3709dca7f6cf3b21c236033d0e4552ea59f2a519c4f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/openapi/legacy-api-01.yaml",
+        "bytes":  361,
+        "sha256":  "6420bd78f250dbbc5b305666bb89f86de415f7b81d809916f34b8b22fbcc27ab"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/openapi/legacy-api-02.yaml",
+        "bytes":  361,
+        "sha256":  "4498fd2655b4b4515a24de7c6eb361a59815eb3c4f055b3b36cce98983763c59"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/openapi/legacy-api-03.yaml",
+        "bytes":  361,
+        "sha256":  "6ef818740458d01fc6101569b772015567433de874d6c892415bb85b159f059f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/openapi/legacy-api-04.yaml",
+        "bytes":  361,
+        "sha256":  "fbe19fa097d4f5206ee1b9250ae8977af0a620d9fdba30ff83785326f99cf061"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/openapi/legacy-api-05.yaml",
+        "bytes":  361,
+        "sha256":  "abc5ebaf50a341cff7141a5551867329a7805f90abff814a342470536fa214f6"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/openapi/legacy-api-06.yaml",
+        "bytes":  361,
+        "sha256":  "298e9872a31c2a2b15146319a8c4c909a9e1d22455c5870b6e01facbb60416f5"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/openapi/legacy-api-07.yaml",
+        "bytes":  361,
+        "sha256":  "de48279324cfa53933d537061c66c7d7c032fb7863f5678f9abb4bed7e39bd59"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/openapi/legacy-api-08.yaml",
+        "bytes":  361,
+        "sha256":  "11dbc6a0733c46d51cec7848a518560066dbf22988a6762f3c098c251dee66b0"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/openapi/legacy-api-09.yaml",
+        "bytes":  361,
+        "sha256":  "7fe17029ef5c20dbb8ca8f937284d0cd6adcf5b70cb24e217c8b57326a12b1ea"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/openapi/legacy-api-10.yaml",
+        "bytes":  362,
+        "sha256":  "e10e6263f59b11bc73a4ae9b6414e0e36852676ff801a4ecff367f49afe77b58"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/invalid-event/schemas/advance.yaml",
+        "bytes":  55,
+        "sha256":  "bf3150005be5748366c3236a598c04e020e2e121362b99474b23a1dc49e75f84"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/legacy-fixed/catalog/legacy-api-01.yaml",
+        "bytes":  307,
+        "sha256":  "1cbe8d5f829d71fcdea19496be2be515ebbf173f7b07c397fde641d93d349535"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/legacy-fixed/catalog/legacy-api-02.yaml",
+        "bytes":  307,
+        "sha256":  "bd21a592166100f766c3ece8dfcaaf2af82be136bb88deb4253014700839246c"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/legacy-fixed/catalog/legacy-api-03.yaml",
+        "bytes":  307,
+        "sha256":  "d0b6453c045b4f98e08c26f89163cd582e4296719a423af7f1cd2d5e21958983"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/legacy-fixed/catalog/legacy-api-04.yaml",
+        "bytes":  307,
+        "sha256":  "34e69f3396516144d0926664fe02396df4d937fa041f80ba8467d3449eae1a46"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/legacy-fixed/catalog/legacy-api-05.yaml",
+        "bytes":  307,
+        "sha256":  "7f1e3f6611fe77912ee8f4f0cd102ab51686439096732691703df8a090f4c45f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/legacy-fixed/catalog/legacy-api-06.yaml",
+        "bytes":  307,
+        "sha256":  "1946eb4d5fd6754ab83f40d0b8a232ce2357ffc6da83315117c78ffd3c7559eb"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/legacy-fixed/catalog/legacy-api-07.yaml",
+        "bytes":  307,
+        "sha256":  "49749188457902ff6571df236f68100dc9768c7755ad1074252ac0ff4d47df1e"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/legacy-fixed/catalog/legacy-api-08.yaml",
+        "bytes":  307,
+        "sha256":  "c8cb9583ce322e70e6f77621aaaac39f0419358c6db3794a780337959f50d7bb"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/legacy-fixed/catalog/legacy-api-09.yaml",
+        "bytes":  307,
+        "sha256":  "7077f128bfe6cd20fa45aef13e48a08052950fca9e627d564bdaf8ddc0d069fc"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/legacy-fixed/catalog/legacy-api-10.yaml",
+        "bytes":  307,
+        "sha256":  "4ef84b76d071519f09b1e3709dca7f6cf3b21c236033d0e4552ea59f2a519c4f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/legacy-fixed/openapi/legacy-api-01.yaml",
+        "bytes":  399,
+        "sha256":  "55eb04037cba60507bdc7547077c6953a9c2ef3804001b914bff82f19b45c37e"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/legacy-fixed/openapi/legacy-api-02.yaml",
+        "bytes":  361,
+        "sha256":  "4498fd2655b4b4515a24de7c6eb361a59815eb3c4f055b3b36cce98983763c59"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/legacy-fixed/openapi/legacy-api-03.yaml",
+        "bytes":  361,
+        "sha256":  "6ef818740458d01fc6101569b772015567433de874d6c892415bb85b159f059f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/legacy-fixed/openapi/legacy-api-04.yaml",
+        "bytes":  361,
+        "sha256":  "fbe19fa097d4f5206ee1b9250ae8977af0a620d9fdba30ff83785326f99cf061"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/legacy-fixed/openapi/legacy-api-05.yaml",
+        "bytes":  361,
+        "sha256":  "abc5ebaf50a341cff7141a5551867329a7805f90abff814a342470536fa214f6"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/legacy-fixed/openapi/legacy-api-06.yaml",
+        "bytes":  361,
+        "sha256":  "298e9872a31c2a2b15146319a8c4c909a9e1d22455c5870b6e01facbb60416f5"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/legacy-fixed/openapi/legacy-api-07.yaml",
+        "bytes":  361,
+        "sha256":  "de48279324cfa53933d537061c66c7d7c032fb7863f5678f9abb4bed7e39bd59"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/legacy-fixed/openapi/legacy-api-08.yaml",
+        "bytes":  361,
+        "sha256":  "11dbc6a0733c46d51cec7848a518560066dbf22988a6762f3c098c251dee66b0"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/legacy-fixed/openapi/legacy-api-09.yaml",
+        "bytes":  361,
+        "sha256":  "7fe17029ef5c20dbb8ca8f937284d0cd6adcf5b70cb24e217c8b57326a12b1ea"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/legacy-fixed/openapi/legacy-api-10.yaml",
+        "bytes":  362,
+        "sha256":  "e10e6263f59b11bc73a4ae9b6414e0e36852676ff801a4ecff367f49afe77b58"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/legacy-fixed/schemas/advance.yaml",
+        "bytes":  55,
+        "sha256":  "bf3150005be5748366c3236a598c04e020e2e121362b99474b23a1dc49e75f84"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/catalog/legacy-api-01.yaml",
+        "bytes":  307,
+        "sha256":  "1cbe8d5f829d71fcdea19496be2be515ebbf173f7b07c397fde641d93d349535"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/catalog/legacy-api-02.yaml",
+        "bytes":  307,
+        "sha256":  "bd21a592166100f766c3ece8dfcaaf2af82be136bb88deb4253014700839246c"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/catalog/legacy-api-03.yaml",
+        "bytes":  307,
+        "sha256":  "d0b6453c045b4f98e08c26f89163cd582e4296719a423af7f1cd2d5e21958983"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/catalog/legacy-api-04.yaml",
+        "bytes":  307,
+        "sha256":  "34e69f3396516144d0926664fe02396df4d937fa041f80ba8467d3449eae1a46"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/catalog/legacy-api-05.yaml",
+        "bytes":  307,
+        "sha256":  "7f1e3f6611fe77912ee8f4f0cd102ab51686439096732691703df8a090f4c45f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/catalog/legacy-api-06.yaml",
+        "bytes":  307,
+        "sha256":  "1946eb4d5fd6754ab83f40d0b8a232ce2357ffc6da83315117c78ffd3c7559eb"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/catalog/legacy-api-07.yaml",
+        "bytes":  307,
+        "sha256":  "49749188457902ff6571df236f68100dc9768c7755ad1074252ac0ff4d47df1e"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/catalog/legacy-api-08.yaml",
+        "bytes":  307,
+        "sha256":  "c8cb9583ce322e70e6f77621aaaac39f0419358c6db3794a780337959f50d7bb"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/catalog/legacy-api-09.yaml",
+        "bytes":  307,
+        "sha256":  "7077f128bfe6cd20fa45aef13e48a08052950fca9e627d564bdaf8ddc0d069fc"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/catalog/legacy-api-10.yaml",
+        "bytes":  307,
+        "sha256":  "4ef84b76d071519f09b1e3709dca7f6cf3b21c236033d0e4552ea59f2a519c4f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/openapi/legacy-api-01.yaml",
+        "bytes":  361,
+        "sha256":  "6420bd78f250dbbc5b305666bb89f86de415f7b81d809916f34b8b22fbcc27ab"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/openapi/legacy-api-02.yaml",
+        "bytes":  361,
+        "sha256":  "4498fd2655b4b4515a24de7c6eb361a59815eb3c4f055b3b36cce98983763c59"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/openapi/legacy-api-03.yaml",
+        "bytes":  361,
+        "sha256":  "6ef818740458d01fc6101569b772015567433de874d6c892415bb85b159f059f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/openapi/legacy-api-04.yaml",
+        "bytes":  361,
+        "sha256":  "fbe19fa097d4f5206ee1b9250ae8977af0a620d9fdba30ff83785326f99cf061"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/openapi/legacy-api-05.yaml",
+        "bytes":  361,
+        "sha256":  "abc5ebaf50a341cff7141a5551867329a7805f90abff814a342470536fa214f6"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/openapi/legacy-api-06.yaml",
+        "bytes":  361,
+        "sha256":  "298e9872a31c2a2b15146319a8c4c909a9e1d22455c5870b6e01facbb60416f5"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/openapi/legacy-api-07.yaml",
+        "bytes":  361,
+        "sha256":  "de48279324cfa53933d537061c66c7d7c032fb7863f5678f9abb4bed7e39bd59"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/openapi/legacy-api-08.yaml",
+        "bytes":  361,
+        "sha256":  "11dbc6a0733c46d51cec7848a518560066dbf22988a6762f3c098c251dee66b0"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/openapi/legacy-api-09.yaml",
+        "bytes":  361,
+        "sha256":  "7fe17029ef5c20dbb8ca8f937284d0cd6adcf5b70cb24e217c8b57326a12b1ea"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/openapi/legacy-api-10.yaml",
+        "bytes":  362,
+        "sha256":  "e10e6263f59b11bc73a4ae9b6414e0e36852676ff801a4ecff367f49afe77b58"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/openapi/member-api.yaml",
+        "bytes":  33,
+        "sha256":  "9ff556e96fc9bfe38a8f0335bbb08843def4d06b9cc3a5c0a2857b94a7c4c787"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/malformed-yaml/schemas/advance.yaml",
+        "bytes":  55,
+        "sha256":  "bf3150005be5748366c3236a598c04e020e2e121362b99474b23a1dc49e75f84"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/catalog/legacy-api-01.yaml",
+        "bytes":  307,
+        "sha256":  "1cbe8d5f829d71fcdea19496be2be515ebbf173f7b07c397fde641d93d349535"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/catalog/legacy-api-02.yaml",
+        "bytes":  307,
+        "sha256":  "bd21a592166100f766c3ece8dfcaaf2af82be136bb88deb4253014700839246c"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/catalog/legacy-api-03.yaml",
+        "bytes":  307,
+        "sha256":  "d0b6453c045b4f98e08c26f89163cd582e4296719a423af7f1cd2d5e21958983"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/catalog/legacy-api-04.yaml",
+        "bytes":  307,
+        "sha256":  "34e69f3396516144d0926664fe02396df4d937fa041f80ba8467d3449eae1a46"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/catalog/legacy-api-05.yaml",
+        "bytes":  307,
+        "sha256":  "7f1e3f6611fe77912ee8f4f0cd102ab51686439096732691703df8a090f4c45f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/catalog/legacy-api-06.yaml",
+        "bytes":  307,
+        "sha256":  "1946eb4d5fd6754ab83f40d0b8a232ce2357ffc6da83315117c78ffd3c7559eb"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/catalog/legacy-api-07.yaml",
+        "bytes":  307,
+        "sha256":  "49749188457902ff6571df236f68100dc9768c7755ad1074252ac0ff4d47df1e"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/catalog/legacy-api-08.yaml",
+        "bytes":  307,
+        "sha256":  "c8cb9583ce322e70e6f77621aaaac39f0419358c6db3794a780337959f50d7bb"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/catalog/legacy-api-09.yaml",
+        "bytes":  307,
+        "sha256":  "7077f128bfe6cd20fa45aef13e48a08052950fca9e627d564bdaf8ddc0d069fc"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/catalog/legacy-api-10.yaml",
+        "bytes":  307,
+        "sha256":  "4ef84b76d071519f09b1e3709dca7f6cf3b21c236033d0e4552ea59f2a519c4f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/catalog/member-api.yaml",
+        "bytes":  264,
+        "sha256":  "09379e749de74a09534b4527dce49d10b84b11eff4533edbfc132dca5ef8bf80"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/openapi/legacy-api-01.yaml",
+        "bytes":  361,
+        "sha256":  "6420bd78f250dbbc5b305666bb89f86de415f7b81d809916f34b8b22fbcc27ab"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/openapi/legacy-api-02.yaml",
+        "bytes":  361,
+        "sha256":  "4498fd2655b4b4515a24de7c6eb361a59815eb3c4f055b3b36cce98983763c59"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/openapi/legacy-api-03.yaml",
+        "bytes":  361,
+        "sha256":  "6ef818740458d01fc6101569b772015567433de874d6c892415bb85b159f059f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/openapi/legacy-api-04.yaml",
+        "bytes":  361,
+        "sha256":  "fbe19fa097d4f5206ee1b9250ae8977af0a620d9fdba30ff83785326f99cf061"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/openapi/legacy-api-05.yaml",
+        "bytes":  361,
+        "sha256":  "abc5ebaf50a341cff7141a5551867329a7805f90abff814a342470536fa214f6"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/openapi/legacy-api-06.yaml",
+        "bytes":  361,
+        "sha256":  "298e9872a31c2a2b15146319a8c4c909a9e1d22455c5870b6e01facbb60416f5"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/openapi/legacy-api-07.yaml",
+        "bytes":  361,
+        "sha256":  "de48279324cfa53933d537061c66c7d7c032fb7863f5678f9abb4bed7e39bd59"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/openapi/legacy-api-08.yaml",
+        "bytes":  361,
+        "sha256":  "11dbc6a0733c46d51cec7848a518560066dbf22988a6762f3c098c251dee66b0"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/openapi/legacy-api-09.yaml",
+        "bytes":  361,
+        "sha256":  "7fe17029ef5c20dbb8ca8f937284d0cd6adcf5b70cb24e217c8b57326a12b1ea"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/openapi/legacy-api-10.yaml",
+        "bytes":  362,
+        "sha256":  "e10e6263f59b11bc73a4ae9b6414e0e36852676ff801a4ecff367f49afe77b58"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/openapi/member-api.yaml",
+        "bytes":  401,
+        "sha256":  "f2cf66e2ea1fdbfe6e2b085455c8b6c4cf60dcc093e1e3ca1df7af3e0682e532"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/missing-owner/schemas/advance.yaml",
+        "bytes":  55,
+        "sha256":  "bf3150005be5748366c3236a598c04e020e2e121362b99474b23a1dc49e75f84"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/new-legacy-violation/catalog/legacy-api-01.yaml",
+        "bytes":  307,
+        "sha256":  "1cbe8d5f829d71fcdea19496be2be515ebbf173f7b07c397fde641d93d349535"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/new-legacy-violation/catalog/legacy-api-02.yaml",
+        "bytes":  307,
+        "sha256":  "bd21a592166100f766c3ece8dfcaaf2af82be136bb88deb4253014700839246c"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/new-legacy-violation/catalog/legacy-api-03.yaml",
+        "bytes":  307,
+        "sha256":  "d0b6453c045b4f98e08c26f89163cd582e4296719a423af7f1cd2d5e21958983"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/new-legacy-violation/catalog/legacy-api-04.yaml",
+        "bytes":  307,
+        "sha256":  "34e69f3396516144d0926664fe02396df4d937fa041f80ba8467d3449eae1a46"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/new-legacy-violation/catalog/legacy-api-05.yaml",
+        "bytes":  307,
+        "sha256":  "7f1e3f6611fe77912ee8f4f0cd102ab51686439096732691703df8a090f4c45f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/new-legacy-violation/catalog/legacy-api-06.yaml",
+        "bytes":  307,
+        "sha256":  "1946eb4d5fd6754ab83f40d0b8a232ce2357ffc6da83315117c78ffd3c7559eb"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/new-legacy-violation/catalog/legacy-api-07.yaml",
+        "bytes":  307,
+        "sha256":  "49749188457902ff6571df236f68100dc9768c7755ad1074252ac0ff4d47df1e"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/new-legacy-violation/catalog/legacy-api-08.yaml",
+        "bytes":  307,
+        "sha256":  "c8cb9583ce322e70e6f77621aaaac39f0419358c6db3794a780337959f50d7bb"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/new-legacy-violation/catalog/legacy-api-09.yaml",
+        "bytes":  307,
+        "sha256":  "7077f128bfe6cd20fa45aef13e48a08052950fca9e627d564bdaf8ddc0d069fc"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/new-legacy-violation/catalog/legacy-api-10.yaml",
+        "bytes":  307,
+        "sha256":  "4ef84b76d071519f09b1e3709dca7f6cf3b21c236033d0e4552ea59f2a519c4f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/new-legacy-violation/openapi/legacy-api-01.yaml",
+        "bytes":  449,
+        "sha256":  "c6765cd4a351b5a5c858a591631519b2c55b32e3ec5ca2cbe8b28752203e687b"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/new-legacy-violation/openapi/legacy-api-02.yaml",
+        "bytes":  361,
+        "sha256":  "4498fd2655b4b4515a24de7c6eb361a59815eb3c4f055b3b36cce98983763c59"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/new-legacy-violation/openapi/legacy-api-03.yaml",
+        "bytes":  361,
+        "sha256":  "6ef818740458d01fc6101569b772015567433de874d6c892415bb85b159f059f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/new-legacy-violation/openapi/legacy-api-04.yaml",
+        "bytes":  361,
+        "sha256":  "fbe19fa097d4f5206ee1b9250ae8977af0a620d9fdba30ff83785326f99cf061"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/new-legacy-violation/openapi/legacy-api-05.yaml",
+        "bytes":  361,
+        "sha256":  "abc5ebaf50a341cff7141a5551867329a7805f90abff814a342470536fa214f6"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/new-legacy-violation/openapi/legacy-api-06.yaml",
+        "bytes":  361,
+        "sha256":  "298e9872a31c2a2b15146319a8c4c909a9e1d22455c5870b6e01facbb60416f5"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/new-legacy-violation/openapi/legacy-api-07.yaml",
+        "bytes":  361,
+        "sha256":  "de48279324cfa53933d537061c66c7d7c032fb7863f5678f9abb4bed7e39bd59"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/new-legacy-violation/openapi/legacy-api-08.yaml",
+        "bytes":  361,
+        "sha256":  "11dbc6a0733c46d51cec7848a518560066dbf22988a6762f3c098c251dee66b0"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/new-legacy-violation/openapi/legacy-api-09.yaml",
+        "bytes":  361,
+        "sha256":  "7fe17029ef5c20dbb8ca8f937284d0cd6adcf5b70cb24e217c8b57326a12b1ea"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/new-legacy-violation/openapi/legacy-api-10.yaml",
+        "bytes":  362,
+        "sha256":  "e10e6263f59b11bc73a4ae9b6414e0e36852676ff801a4ecff367f49afe77b58"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/new-legacy-violation/schemas/advance.yaml",
+        "bytes":  55,
+        "sha256":  "bf3150005be5748366c3236a598c04e020e2e121362b99474b23a1dc49e75f84"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/shared-schema-broken/catalog/legacy-api-01.yaml",
+        "bytes":  307,
+        "sha256":  "1cbe8d5f829d71fcdea19496be2be515ebbf173f7b07c397fde641d93d349535"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/shared-schema-broken/catalog/legacy-api-02.yaml",
+        "bytes":  307,
+        "sha256":  "bd21a592166100f766c3ece8dfcaaf2af82be136bb88deb4253014700839246c"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/shared-schema-broken/catalog/legacy-api-03.yaml",
+        "bytes":  307,
+        "sha256":  "d0b6453c045b4f98e08c26f89163cd582e4296719a423af7f1cd2d5e21958983"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/shared-schema-broken/catalog/legacy-api-04.yaml",
+        "bytes":  307,
+        "sha256":  "34e69f3396516144d0926664fe02396df4d937fa041f80ba8467d3449eae1a46"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/shared-schema-broken/catalog/legacy-api-05.yaml",
+        "bytes":  307,
+        "sha256":  "7f1e3f6611fe77912ee8f4f0cd102ab51686439096732691703df8a090f4c45f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/shared-schema-broken/catalog/legacy-api-06.yaml",
+        "bytes":  307,
+        "sha256":  "1946eb4d5fd6754ab83f40d0b8a232ce2357ffc6da83315117c78ffd3c7559eb"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/shared-schema-broken/catalog/legacy-api-07.yaml",
+        "bytes":  307,
+        "sha256":  "49749188457902ff6571df236f68100dc9768c7755ad1074252ac0ff4d47df1e"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/shared-schema-broken/catalog/legacy-api-08.yaml",
+        "bytes":  307,
+        "sha256":  "c8cb9583ce322e70e6f77621aaaac39f0419358c6db3794a780337959f50d7bb"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/shared-schema-broken/catalog/legacy-api-09.yaml",
+        "bytes":  307,
+        "sha256":  "7077f128bfe6cd20fa45aef13e48a08052950fca9e627d564bdaf8ddc0d069fc"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/shared-schema-broken/catalog/legacy-api-10.yaml",
+        "bytes":  307,
+        "sha256":  "4ef84b76d071519f09b1e3709dca7f6cf3b21c236033d0e4552ea59f2a519c4f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/shared-schema-broken/openapi/legacy-api-01.yaml",
+        "bytes":  361,
+        "sha256":  "6420bd78f250dbbc5b305666bb89f86de415f7b81d809916f34b8b22fbcc27ab"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/shared-schema-broken/openapi/legacy-api-02.yaml",
+        "bytes":  361,
+        "sha256":  "4498fd2655b4b4515a24de7c6eb361a59815eb3c4f055b3b36cce98983763c59"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/shared-schema-broken/openapi/legacy-api-03.yaml",
+        "bytes":  361,
+        "sha256":  "6ef818740458d01fc6101569b772015567433de874d6c892415bb85b159f059f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/shared-schema-broken/openapi/legacy-api-04.yaml",
+        "bytes":  361,
+        "sha256":  "fbe19fa097d4f5206ee1b9250ae8977af0a620d9fdba30ff83785326f99cf061"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/shared-schema-broken/openapi/legacy-api-05.yaml",
+        "bytes":  361,
+        "sha256":  "abc5ebaf50a341cff7141a5551867329a7805f90abff814a342470536fa214f6"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/shared-schema-broken/openapi/legacy-api-06.yaml",
+        "bytes":  361,
+        "sha256":  "298e9872a31c2a2b15146319a8c4c909a9e1d22455c5870b6e01facbb60416f5"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/shared-schema-broken/openapi/legacy-api-07.yaml",
+        "bytes":  361,
+        "sha256":  "de48279324cfa53933d537061c66c7d7c032fb7863f5678f9abb4bed7e39bd59"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/shared-schema-broken/openapi/legacy-api-08.yaml",
+        "bytes":  361,
+        "sha256":  "11dbc6a0733c46d51cec7848a518560066dbf22988a6762f3c098c251dee66b0"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/shared-schema-broken/openapi/legacy-api-09.yaml",
+        "bytes":  361,
+        "sha256":  "7fe17029ef5c20dbb8ca8f937284d0cd6adcf5b70cb24e217c8b57326a12b1ea"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/shared-schema-broken/openapi/legacy-api-10.yaml",
+        "bytes":  362,
+        "sha256":  "e10e6263f59b11bc73a4ae9b6414e0e36852676ff801a4ecff367f49afe77b58"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/shared-schema-broken/schemas/advance.yaml",
+        "bytes":  9,
+        "sha256":  "ef2ad112a964bb383a6aa9b1c21a5b831ab6a569f9fff4be26ed05952bd9d392"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/asyncapi/advance-events.yaml",
+        "bytes":  676,
+        "sha256":  "75dba17740eb5d8f599bb1beafbe357c7910519feb4f188c3fc00228e65f07e7"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/catalog/legacy-api-01.yaml",
+        "bytes":  307,
+        "sha256":  "1cbe8d5f829d71fcdea19496be2be515ebbf173f7b07c397fde641d93d349535"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/catalog/legacy-api-02.yaml",
+        "bytes":  307,
+        "sha256":  "bd21a592166100f766c3ece8dfcaaf2af82be136bb88deb4253014700839246c"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/catalog/legacy-api-03.yaml",
+        "bytes":  307,
+        "sha256":  "d0b6453c045b4f98e08c26f89163cd582e4296719a423af7f1cd2d5e21958983"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/catalog/legacy-api-04.yaml",
+        "bytes":  307,
+        "sha256":  "34e69f3396516144d0926664fe02396df4d937fa041f80ba8467d3449eae1a46"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/catalog/legacy-api-05.yaml",
+        "bytes":  307,
+        "sha256":  "7f1e3f6611fe77912ee8f4f0cd102ab51686439096732691703df8a090f4c45f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/catalog/legacy-api-06.yaml",
+        "bytes":  307,
+        "sha256":  "1946eb4d5fd6754ab83f40d0b8a232ce2357ffc6da83315117c78ffd3c7559eb"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/catalog/legacy-api-07.yaml",
+        "bytes":  307,
+        "sha256":  "49749188457902ff6571df236f68100dc9768c7755ad1074252ac0ff4d47df1e"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/catalog/legacy-api-08.yaml",
+        "bytes":  307,
+        "sha256":  "c8cb9583ce322e70e6f77621aaaac39f0419358c6db3794a780337959f50d7bb"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/catalog/legacy-api-09.yaml",
+        "bytes":  307,
+        "sha256":  "7077f128bfe6cd20fa45aef13e48a08052950fca9e627d564bdaf8ddc0d069fc"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/catalog/legacy-api-10.yaml",
+        "bytes":  307,
+        "sha256":  "4ef84b76d071519f09b1e3709dca7f6cf3b21c236033d0e4552ea59f2a519c4f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/openapi/legacy-api-01.yaml",
+        "bytes":  361,
+        "sha256":  "6420bd78f250dbbc5b305666bb89f86de415f7b81d809916f34b8b22fbcc27ab"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/openapi/legacy-api-02.yaml",
+        "bytes":  361,
+        "sha256":  "4498fd2655b4b4515a24de7c6eb361a59815eb3c4f055b3b36cce98983763c59"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/openapi/legacy-api-03.yaml",
+        "bytes":  361,
+        "sha256":  "6ef818740458d01fc6101569b772015567433de874d6c892415bb85b159f059f"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/openapi/legacy-api-04.yaml",
+        "bytes":  361,
+        "sha256":  "fbe19fa097d4f5206ee1b9250ae8977af0a620d9fdba30ff83785326f99cf061"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/openapi/legacy-api-05.yaml",
+        "bytes":  361,
+        "sha256":  "abc5ebaf50a341cff7141a5551867329a7805f90abff814a342470536fa214f6"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/openapi/legacy-api-06.yaml",
+        "bytes":  361,
+        "sha256":  "298e9872a31c2a2b15146319a8c4c909a9e1d22455c5870b6e01facbb60416f5"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/openapi/legacy-api-07.yaml",
+        "bytes":  361,
+        "sha256":  "de48279324cfa53933d537061c66c7d7c032fb7863f5678f9abb4bed7e39bd59"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/openapi/legacy-api-08.yaml",
+        "bytes":  361,
+        "sha256":  "11dbc6a0733c46d51cec7848a518560066dbf22988a6762f3c098c251dee66b0"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/openapi/legacy-api-09.yaml",
+        "bytes":  361,
+        "sha256":  "7fe17029ef5c20dbb8ca8f937284d0cd6adcf5b70cb24e217c8b57326a12b1ea"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/openapi/legacy-api-10.yaml",
+        "bytes":  362,
+        "sha256":  "e10e6263f59b11bc73a4ae9b6414e0e36852676ff801a4ecff367f49afe77b58"
+    },
+    {
+        "path":  "governance-poc/samples/scenarios/unsupported-version/schemas/advance.yaml",
+        "bytes":  55,
+        "sha256":  "bf3150005be5748366c3236a598c04e020e2e121362b99474b23a1dc49e75f84"
+    },
+    {
+        "path":  "governance-poc/samples/target/catalog/legacy-api-01.yaml",
+        "bytes":  307,
+        "sha256":  "1cbe8d5f829d71fcdea19496be2be515ebbf173f7b07c397fde641d93d349535"
+    },
+    {
+        "path":  "governance-poc/samples/target/catalog/legacy-api-02.yaml",
+        "bytes":  307,
+        "sha256":  "bd21a592166100f766c3ece8dfcaaf2af82be136bb88deb4253014700839246c"
+    },
+    {
+        "path":  "governance-poc/samples/target/catalog/legacy-api-03.yaml",
+        "bytes":  307,
+        "sha256":  "d0b6453c045b4f98e08c26f89163cd582e4296719a423af7f1cd2d5e21958983"
+    },
+    {
+        "path":  "governance-poc/samples/target/catalog/legacy-api-04.yaml",
+        "bytes":  307,
+        "sha256":  "34e69f3396516144d0926664fe02396df4d937fa041f80ba8467d3449eae1a46"
+    },
+    {
+        "path":  "governance-poc/samples/target/catalog/legacy-api-05.yaml",
+        "bytes":  307,
+        "sha256":  "7f1e3f6611fe77912ee8f4f0cd102ab51686439096732691703df8a090f4c45f"
+    },
+    {
+        "path":  "governance-poc/samples/target/catalog/legacy-api-06.yaml",
+        "bytes":  307,
+        "sha256":  "1946eb4d5fd6754ab83f40d0b8a232ce2357ffc6da83315117c78ffd3c7559eb"
+    },
+    {
+        "path":  "governance-poc/samples/target/catalog/legacy-api-07.yaml",
+        "bytes":  307,
+        "sha256":  "49749188457902ff6571df236f68100dc9768c7755ad1074252ac0ff4d47df1e"
+    },
+    {
+        "path":  "governance-poc/samples/target/catalog/legacy-api-08.yaml",
+        "bytes":  307,
+        "sha256":  "c8cb9583ce322e70e6f77621aaaac39f0419358c6db3794a780337959f50d7bb"
+    },
+    {
+        "path":  "governance-poc/samples/target/catalog/legacy-api-09.yaml",
+        "bytes":  307,
+        "sha256":  "7077f128bfe6cd20fa45aef13e48a08052950fca9e627d564bdaf8ddc0d069fc"
+    },
+    {
+        "path":  "governance-poc/samples/target/catalog/legacy-api-10.yaml",
+        "bytes":  307,
+        "sha256":  "4ef84b76d071519f09b1e3709dca7f6cf3b21c236033d0e4552ea59f2a519c4f"
+    },
+    {
+        "path":  "governance-poc/samples/target/openapi/legacy-api-01.yaml",
+        "bytes":  361,
+        "sha256":  "6420bd78f250dbbc5b305666bb89f86de415f7b81d809916f34b8b22fbcc27ab"
+    },
+    {
+        "path":  "governance-poc/samples/target/openapi/legacy-api-02.yaml",
+        "bytes":  361,
+        "sha256":  "4498fd2655b4b4515a24de7c6eb361a59815eb3c4f055b3b36cce98983763c59"
+    },
+    {
+        "path":  "governance-poc/samples/target/openapi/legacy-api-03.yaml",
+        "bytes":  361,
+        "sha256":  "6ef818740458d01fc6101569b772015567433de874d6c892415bb85b159f059f"
+    },
+    {
+        "path":  "governance-poc/samples/target/openapi/legacy-api-04.yaml",
+        "bytes":  361,
+        "sha256":  "fbe19fa097d4f5206ee1b9250ae8977af0a620d9fdba30ff83785326f99cf061"
+    },
+    {
+        "path":  "governance-poc/samples/target/openapi/legacy-api-05.yaml",
+        "bytes":  361,
+        "sha256":  "abc5ebaf50a341cff7141a5551867329a7805f90abff814a342470536fa214f6"
+    },
+    {
+        "path":  "governance-poc/samples/target/openapi/legacy-api-06.yaml",
+        "bytes":  361,
+        "sha256":  "298e9872a31c2a2b15146319a8c4c909a9e1d22455c5870b6e01facbb60416f5"
+    },
+    {
+        "path":  "governance-poc/samples/target/openapi/legacy-api-07.yaml",
+        "bytes":  361,
+        "sha256":  "de48279324cfa53933d537061c66c7d7c032fb7863f5678f9abb4bed7e39bd59"
+    },
+    {
+        "path":  "governance-poc/samples/target/openapi/legacy-api-08.yaml",
+        "bytes":  361,
+        "sha256":  "11dbc6a0733c46d51cec7848a518560066dbf22988a6762f3c098c251dee66b0"
+    },
+    {
+        "path":  "governance-poc/samples/target/openapi/legacy-api-09.yaml",
+        "bytes":  361,
+        "sha256":  "7fe17029ef5c20dbb8ca8f937284d0cd6adcf5b70cb24e217c8b57326a12b1ea"
+    },
+    {
+        "path":  "governance-poc/samples/target/openapi/legacy-api-10.yaml",
+        "bytes":  362,
+        "sha256":  "e10e6263f59b11bc73a4ae9b6414e0e36852676ff801a4ecff367f49afe77b58"
+    },
+    {
+        "path":  "governance-poc/samples/target/schemas/advance.yaml",
+        "bytes":  55,
+        "sha256":  "bf3150005be5748366c3236a598c04e020e2e121362b99474b23a1dc49e75f84"
+    },
+    {
+        "path":  "governance-poc/src/backstage-publication.mjs",
+        "bytes":  3033,
+        "sha256":  "a59bcb9f64b399c79b70d087fd0c26412ab8b3d32d1c4252908eed57ac853f87"
+    },
+    {
+        "path":  "governance-poc/src/check.mjs",
+        "bytes":  2619,
+        "sha256":  "87b572d7d48e3920070be9e3b3fb62641e1e1600db0c25a880c2bd342706d43d"
+    },
+    {
+        "path":  "governance-poc/src/demo.mjs",
+        "bytes":  2195,
+        "sha256":  "11af05b43d13f786dbdd504d0ab472d9478df807fd29887480a4a671c0685984"
+    },
+    {
+        "path":  "governance-poc/src/engine.mjs",
+        "bytes":  10004,
+        "sha256":  "5abda8d4b163809b2675e7f9e2ce9a77c22f04b1dfa90d8ae6f28ffc46cbf271"
+    },
+    {
+        "path":  "governance-poc/src/files.mjs",
+        "bytes":  1797,
+        "sha256":  "d018d8f6aba0240c28792d75bc081e0dd7bed28385f893f0fe1c795d2cf628a2"
+    },
+    {
+        "path":  "governance-poc/src/publish-backstage.mjs",
+        "bytes":  2217,
+        "sha256":  "2fbea71cada078d7ef11bc249962429e6090b6ab8498e72dcef28f8e8da384ca"
+    },
+    {
+        "path":  "governance-poc/src/report-client.mjs",
+        "bytes":  9523,
+        "sha256":  "64d62c8e722a3c0efa17e1f2477634b72bfe044b8916d2ab4307ca0132434b86"
+    },
+    {
+        "path":  "governance-poc/src/report.css",
+        "bytes":  13024,
+        "sha256":  "7b84f9ff60db91acc8f3afdb2fcba506986f3089e798a948e2105d490fa56672"
+    },
+    {
+        "path":  "governance-poc/src/report.mjs",
+        "bytes":  4150,
+        "sha256":  "bb708318616200c0c39818d93f99e94b42f585a159a875afc16748724fa07311"
+    },
+    {
+        "path":  "governance-poc/src/rules.mjs",
+        "bytes":  2034,
+        "sha256":  "e11953a0c36e3cda5060d9aad8499c53e96a2fb2b5f728099d83630309f62504"
+    },
+    {
+        "path":  "governance-poc/src/scenarios.mjs",
+        "bytes":  5924,
+        "sha256":  "23fdc52db1eea960968096a7f0bd0e5cda7618c945bd5f1896756fc818dee0d8"
+    },
+    {
+        "path":  "governance-poc/test/backstage.test.mjs",
+        "bytes":  1852,
+        "sha256":  "a46f86ff607d94392198a5c384f08aee4b5bb10f0a7cda589004125b8b665fa1"
+    },
+    {
+        "path":  "governance-poc/test/engine.test.mjs",
+        "bytes":  3895,
+        "sha256":  "b33ac09fa9ff0d045597c19699bf2cfc12d5a3b417bd854da59abc21e4401a68"
+    },
+    {
+        "path":  "governance-poc/test/files.test.mjs",
+        "bytes":  841,
+        "sha256":  "ce6a4a67811bf6c15c7a9f78692083c9af976c8b58e83fe52002b9064c8a32eb"
+    },
+    {
+        "path":  "governance-poc/test/portable-rules.test.mjs",
+        "bytes":  1728,
+        "sha256":  "47ecef9eb27889e24297cc5204a48b2240e9ca27c152f2e98cf5e8f6a98d5c2a"
+    },
+    {
+        "path":  "governance-poc/test/report.test.mjs",
+        "bytes":  757,
+        "sha256":  "6ab557581ff5ed88a45c09b5950ec05a1ac295929139b57f327fd437558946a5"
+    },
+    {
+        "path":  "governance-poc/test/rules.test.mjs",
+        "bytes":  803,
+        "sha256":  "e862f49ee31e7ce5d4b78733ab5ed27264bdbdc1866a855a312ac91f69e0258a"
+    },
+    {
+        "path":  "integration/App.registration.tsx.example",
+        "bytes":  183,
+        "sha256":  "22abb85e2ed09eb50dd051f9bbd55b6127c71dc9d0848a6dcbfccaa12167efd1"
+    },
+    {
+        "path":  "integration/dependencies.reference.json",
+        "bytes":  424,
+        "sha256":  "ff8566b8adee27ba65642ec7d9302e2b53dd750e8eef684777ed79b73cd3e6f5"
+    },
+    {
+        "path":  "third-party/lucide-LICENSE",
+        "bytes":  3208,
+        "sha256":  "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+    }
+]
